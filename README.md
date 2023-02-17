@@ -9,5 +9,5 @@ scenario, we implement different algorithms: FedAVG, FedGKT,
 FedProx. Each one of the algorithms was tested with Batch and
 Group Normalization and compare the results with considering
 the IID and balanced version of CIFAR-10 and also the non-IID
-and unbalanced version. FOr test privacy of our model we implent 
+and unbalanced version. For test privacy of our model we implent 
 the gradient inversion attack.
